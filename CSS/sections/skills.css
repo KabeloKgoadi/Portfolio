@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: gray;
+    
+}
+
+nav a:hover{
+    color: black;
+}
+
+.line{
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.vertical-navbar{
+    margin-bottom: 700px;
+}
+
+.vertical-social-icons{
+    margin-top: 250px;
+}
+
+.vertical-social-icons p{
+    font-size: 15px;
+    color: white;
+}
+
+.fa {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.fa:hover{
+    opacity: 0.5;
+}
+
+.fa-github{
+    color: #FFFFFF;
+    font-size: 15px;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+
+.fa-linkedin{
+    color: black;
+    border: 1px solid #FFFFFF;
+    background-color: white;
+    margin-right: 10px;
+}
+
+.table-contents{
+    margin-bottom: 800px;
+    padding: 70px;
+    background-color: rgb(27, 25, 25);
+}
+
+.table-contents h3{
+    font-size: 40px;
+    color: white;
+}
+
+.table-contents i{
+    color: aqua;
+}
+
+.table-contents h4{
+    color: white;
+    font-size: 15px;
+}
+
+.table-contents img{
+    width: 200px;
+    border: none;
+    margin-top: 50px;
+    padding-right: 40px;
+
+}
+
+.picture{
+    width: 455px;
+    height: 500px;
+    margin: 50px;
+    margin-top: 85px;
+}
+
+img{
+    border: 2px solid aqua;
+}
+
+.inner-table h1{
+    font-size: 20px;
+}
+
+.left-table{
+    background-color: rgb(19, 18, 18);
+}
+
+h2{
+    color: aqua;
+    font-size: 40px;
+}
+
+span p{
+    color: white;
+}
+
+body{
+    background-color: rgb(27, 25, 25);
+}
+
+.table-contents a{
+    color: purple;
+}
+
+.profile{
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 400px;
+    margin-top: 10px;
+}
